@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-fuego/) |
+| **Get License** | [Official Music Licensing for Piel de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche entera pide que te acerques más
+> Con ese flow salvaje que me quita la paz
+> Tus labios me provocan, no lo puedes ocultar
+> Que quieres que te lleve a donde nadie va a llegar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
